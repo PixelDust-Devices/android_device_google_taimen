@@ -41,3 +41,6 @@ PRODUCT_BRAND := Android
 PRODUCT_NAME := aosp_taimen
 PRODUCT_DEVICE := taimen
 PRODUCT_MODEL := AOSP on taimen
+
+# Match stock product info
+PRODUCT_OVERRIDE_INFO := true
